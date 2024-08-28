@@ -1,6 +1,7 @@
 ## multimodel-chatbot
 multimodel-chatbotはGPT-4o、Claude、Geminiとのチャット機能と、llamaindexによるPDFのRAG機能を搭載したチャットボットです。
 このツールを使用すると、ユーザーは自然言語を使用して PDF ファイルから情報を照会し、関連する回答や要約を取得できます。
+![chatbot ](https://github.com/user-attachments/assets/17caf436-36ad-4d47-8218-8b8a34c7a566 )
 
 ### 使用しているライブラリやフレームワーク
 - chainlit
