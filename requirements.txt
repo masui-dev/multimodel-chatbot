@@ -1,0 +1,12 @@
+chainlit==1.1.402
+openai==1.41.0
+anthropic==0.34.0
+google-generativeai==0.7.2
+langchain == 0.2.14
+langchain-openai == 0.1.22
+langchain-community == 0.2.12
+langchain-core == 0.2.33
+langchain-anthropic == 0.1.23
+langchain-google-genai == 1.0.9
+llama-index
+pymupdf
